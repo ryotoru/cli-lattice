@@ -44,7 +44,7 @@ This tool visualizes high-dimensional lattices and their duals using Three.js. I
     ```sh
     node lattice-visualizer.mjs -d 3 -s 5
     ```
-    Note: The number of points generated is restricted to 1000000000. You can change itdepending on your device's capability by changng the value of MAX_POINTS. 
+    Note: The number of points generated is restricted to 1000000000. You can change it depending on your device's capability by changng the value of MAX_POINTS. 
 
 2. **Open the visualization:**
 
